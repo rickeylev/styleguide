@@ -8,7 +8,7 @@ See README.md for details.
 
 
 <h2>Background with custom link
-<a class="anchor" href="#my-bg-a-href">&link;</a>
+<a id=my-bg-a-href">&#1f517;</a>
 </h2>
 
 Python is the main dynamic language used at Google. This style guide is a list
