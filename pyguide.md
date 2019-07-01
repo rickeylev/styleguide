@@ -6,9 +6,10 @@ See README.md for details.
 
 # Google Python Style Guide
 
-foo ## header
 
-<h2 id="my-background">Background with id attr</h2>
+<h2>Background with a href
+<a class="anchor" href="my-bg-a-href">XX</a>
+</h2>
 
 Python is the main dynamic language used at Google. This style guide is a list
 of *dos and don'ts* for Python programs.
