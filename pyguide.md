@@ -6,8 +6,10 @@ See README.md for details.
 
 # Google Python Style Guide
 
+foo ## header
 
-## 1 [Background]
+<h2>Background</h2>
+## 1 Background
 
 Python is the main dynamic language used at Google. This style guide is a list
 of *dos and don'ts* for Python programs.
