@@ -8,7 +8,7 @@ See README.md for details.
 
 
 <a id="background"></a>
-## 1 Background
+## 1 Background {#my-background}
 
 Python is the main dynamic language used at Google. This style guide is a list
 of *dos and don'ts* for Python programs.
